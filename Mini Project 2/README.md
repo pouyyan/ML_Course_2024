@@ -28,13 +28,13 @@ Provides sample predictions on a small subset of test data.
 
 The code is organized into separate Python scripts, corresponding to the exploration of different concepts:
 
-Code1_*.py: Activation functions and McCulloch-Pitts neurons
+Question 1: Activation functions and McCulloch-Pitts neurons
 
-Code2_*.py: Bearing fault detection
+Question 2.py: Bearing fault detection
 
-Code3_*.py: Drug classification (including undersampling exploration)
+Question 3.py: Drug classification (including undersampling exploration)
 
-Code4.py: Heart disease prediction
+Question 4.py: Heart disease prediction
 
 ## Requirements:
 
