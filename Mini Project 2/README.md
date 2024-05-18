@@ -30,11 +30,11 @@ The code is organized into separate Python scripts, corresponding to the explora
 
 Question 1: Activation functions and McCulloch-Pitts neurons
 
-Question 2.py: Bearing fault detection
+Question 2: Bearing fault detection
 
-Question 3.py: Drug classification (including undersampling exploration)
+Question 3: Drug classification (including undersampling exploration)
 
-Question 4.py: Heart disease prediction
+Question 4: Heart disease prediction
 
 ## Requirements:
 
