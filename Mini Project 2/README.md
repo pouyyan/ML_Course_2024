@@ -27,6 +27,7 @@ Provides sample predictions on a small subset of test data.
 ## Code Structure:
 
 The code is organized into separate Python scripts, corresponding to the exploration of different concepts:
+
 Code1_*.py: Activation functions and McCulloch-Pitts neurons
 Code2_*.py: Bearing fault detection
 Code3_*.py: Drug classification (including undersampling exploration)
