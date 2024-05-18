@@ -24,7 +24,7 @@ Trains a Naive Bayes classifier for heart disease prediction.
 Evaluates model performance using accuracy score, classification report, and confusion matrix.
 Provides sample predictions on a small subset of test data.
 
-#Code Structure:
+# Code Structure:
 
 The code is organized into separate Python scripts, corresponding to the exploration of different concepts:
 Code1_*.py: Activation functions and McCulloch-Pitts neurons
@@ -32,7 +32,7 @@ Code2_*.py: Bearing fault detection
 Code3_*.py: Drug classification (including undersampling exploration)
 Code4.py: Heart disease prediction
 
-#Requirements:
+# Requirements:
 
 This code assumes you have the following libraries installed:
 pandas
@@ -44,7 +44,7 @@ scikit-learn
 opendatasets (for Heart Disease dataset download in Code4.py)
 gdown (for downloading the Heart Disease dataset in Code4.py)
 
-#Instructions:
+# Instructions:
 
 Clone this repository to your local machine.
 Install the required libraries (pip install <library_name> for each).
