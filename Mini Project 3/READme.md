@@ -1,7 +1,7 @@
-##Iris Dataset Analysis and SVM Classification
+## Iris Dataset Analysis and SVM Classification
 This repository contains Python scripts for analyzing the Iris dataset using machine learning techniques, specifically Support Vector Machines (SVM) with Linear Discriminant Analysis (LDA) and polynomial kernels.
 
-###Overview
+### Overview
 The scripts provided perform the following tasks:
 
 Data Analysis: Exploratory data analysis (EDA) of the Iris dataset, including visualizations and statistical summaries.
