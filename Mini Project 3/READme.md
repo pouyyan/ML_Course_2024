@@ -25,8 +25,8 @@ Instructions
 Clone the repository and navigate to the project directory.
 Install dependencies using pip install -r requirements.txt.
 Run each part's Jupyter notebook or Python script sequentially to reproduce the results.
-Results and Visualizations
+### Results and Visualizations
 Each part provides visualizations and evaluation metrics such as accuracy, F1-score, and confusion matrices.
 Animated GIFs (SVM_Decision_Boundary.gif, SVM_Scratch_decision_boundaries.gif) demonstrate dynamic changes in decision boundaries across different models and polynomial degrees.
-Conclusion
+### Conclusion
 This project showcases the application of SVMs with various kernels and LDA for classification tasks using the Iris dataset. It also includes a custom implementation of Polynomial SVM from scratch, offering insights into SVM internals and optimization techniques.
