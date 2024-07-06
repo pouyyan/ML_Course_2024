@@ -6,17 +6,7 @@ To run the code, ensure you have the following installed:
 
 Python 3.x
 Jupyter Notebook (for running interactively)
-Required Python packages can be installed via pip:
-bash
-Copy code
-pip install -r requirements.txt
-Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your_username/your_repository.git
-cd your_repository
 ## Setup
 Ensure dependencies are installed as per requirements.txt.
 Run Jupyter Notebook or any Python environment that supports interactive sessions.
