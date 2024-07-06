@@ -1,42 +1,44 @@
-# LunarLander-v2 Deep Q-Network Implementation 
- 
-This repository contains an implementation of a Deep Q-Network (DQN) agent to solve the LunarLander-v2 environment from OpenAI Gym. The code is written in Python and utilizes PyTorch for the neural network implementation. 
- 
-## Requirements 
- 
-To run the code, you need to have the following libraries installed: 
-Explain 
-Use code with caution 
-pip install gym==0.25.2 stable-baselines3 box2d-py pyvirtualdisplay rarfile torch 
- 
-  
-## Usage 
- 
-1. Training: 
-   - Run the provided Python script to train the DQN agent. 
-   - The training process will save checkpoints every 50 episodes. 
-   - Training logs will be printed to the console, including average reward and epsilon values. 
- 
-2. Evaluation: 
-   - Load a trained checkpoint using the agent.load() method. 
-   - Evaluate the agent's performance in the LunarLander-v2 environment. 
-   - Optionally, record videos of the agent's gameplay. 
- 
-## Hyperparameters 
- 
-- Batch Size: 32 and 64 (experiments with two different batch sizes) 
-- Gamma (Discount Factor): 0.99 
-- Epsilon (Exploration Rate): Starts at 1.0 and decays to 0.01 
-- Learning Rate: 1e-4 
-- Experience Replay Buffer Size: 25000 
- 
-## Results 
- 
-- The training progress is visualized in plots showing the cumulative reward per episode. 
-- Videos of the agent's gameplay are saved for selected episodes. 
- 
-## Future Work 
- 
-- Implement Double DQN or Dueling DQN for improved performance. 
-- Experiment with different hyperparameter settings. 
-- Evaluate the agent's generalization capabilities on other LunarLander environments. 
+# Deep Q-Learning Agents for LunarLander-v2
+This repository contains Python code implementing two variants of Deep Q-Learning (DQN) agents and Double Deep Q-Learning (DDQN) agents for solving the LunarLander-v2 environment from OpenAI's Gym.
+
+## Requirements
+To run the code, ensure you have the following installed:
+
+Python 3.x
+Jupyter Notebook (for running interactively)
+Required Python packages can be installed via pip:
+bash
+Copy code
+pip install -r requirements.txt
+Installation
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/your_username/your_repository.git
+cd your_repository
+Setup
+Ensure dependencies are installed as per requirements.txt.
+Run Jupyter Notebook or any Python environment that supports interactive sessions.
+Usage
+DQN Agent
+DQNAgent: Implements a basic DQN agent with experience replay.
+Training involves initializing the environment, training the agent, and saving models periodically.
+DDQN Agent
+DDQNAgent: Extends DQNAgent with Double Deep Q-Learning capabilities.
+Training involves initializing the environment, training the agent, updating target networks, and saving models periodically.
+Visualization
+Training progress and rewards can be visualized using matplotlib to track agent performance over episodes.
+Code Organization
+dqn_agent.py: Defines the DQNAgent class for DQN training.
+ddqn_agent.py: Defines the DDQNAgent class for DDQN training.
+utils.py: Contains utility functions such as experience replay (ExperienceReplay).
+main.ipynb: Jupyter Notebook demonstrating agent training and visualization.
+Running Examples
+Example usage can be found in main.ipynb, where DQN and DDQN agents are trained on the LunarLander-v2 environment.
+
+References
+OpenAI Gym
+Stable Baselines3
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
