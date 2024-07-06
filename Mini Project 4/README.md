@@ -17,27 +17,27 @@ bash
 Copy code
 git clone https://github.com/your_username/your_repository.git
 cd your_repository
-Setup
+## Setup
 Ensure dependencies are installed as per requirements.txt.
 Run Jupyter Notebook or any Python environment that supports interactive sessions.
 Usage
-DQN Agent
+## DQN Agent
 DQNAgent: Implements a basic DQN agent with experience replay.
 Training involves initializing the environment, training the agent, and saving models periodically.
-DDQN Agent
+## DDQN Agent
 DDQNAgent: Extends DQNAgent with Double Deep Q-Learning capabilities.
 Training involves initializing the environment, training the agent, updating target networks, and saving models periodically.
-Visualization
+## Visualization
 Training progress and rewards can be visualized using matplotlib to track agent performance over episodes.
-Code Organization
+## Code Organization
 dqn_agent.py: Defines the DQNAgent class for DQN training.
 ddqn_agent.py: Defines the DDQNAgent class for DDQN training.
 utils.py: Contains utility functions such as experience replay (ExperienceReplay).
 main.ipynb: Jupyter Notebook demonstrating agent training and visualization.
-Running Examples
+## Running Examples
 Example usage can be found in main.ipynb, where DQN and DDQN agents are trained on the LunarLander-v2 environment.
 
-References
+## References
 OpenAI Gym
 Stable Baselines3
 License
