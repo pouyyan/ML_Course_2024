@@ -11,7 +11,7 @@ The repository is organized into the following directories:
 Projects: Contains code for independent machine learning projects.
 ### Mini Project 1 (Linear Classifiers): 
 Implements logistic regression, SGD, and other linear classification models.
---------------------------------------------------------
+========================================
 ### Mini Project 2 (Decision Tree):
 Covers decision trees, random forests, and MLPs.
 --------------------------------------------------------
