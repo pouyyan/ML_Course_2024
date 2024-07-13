@@ -10,26 +10,26 @@ The repository is organized into the following directories:
 
 Projects: Contains code for independent machine learning projects.
 ### Mini Project 1 (Linear Classifiers): 
-Implements logistic regression, SGD, and other linear classification models.
-========================================
+  Implements logistic regression, SGD, and other linear classification models.
+
 ### Mini Project 2 (Decision Tree):
-Covers decision trees, random forests, and MLPs.
---------------------------------------------------------
+  Covers decision trees, random forests, and MLPs.
+
 ### Mini Project 3 (SVM and Autoencoder): 
-Explores SVMs (including a scratch implementation) and autoencoders.
---------------------------------------------------------
+  Explores SVMs (including a scratch implementation) and autoencoders.
+
 ### Mini Project 4 (Reinforcement Learning): 
   Focuses on reinforcement learning algorithms and applications.
---------------------------------------------------------
+
 ### Homeworks: 
   Includes assignments and solutions for homework exercises.
-  --------------------------------------------------------
+  
 ### Midterm Exam: 
   Contains code related to the midterm exam.
-  --------------------------------------------------------
+  
 ### Final Exam: 
   Includes code related to the final exam.
-  --------------------------------------------------------
+
 The code in this repository relies on the following Python libraries:
 
 [List of required libraries, e.g., NumPy, pandas, scikit-learn, TensorFlow]
