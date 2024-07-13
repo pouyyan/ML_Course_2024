@@ -1,6 +1,6 @@
 # ML_Course_2024
-This my repository for my assignments in Machine Learning 2024 course. 
-Overview
+---------------------------------------------------
+## Overview
 
 This repository encompasses Python code implementations for machine learning projects, assignments, and exams undertaken during a machine learning course. The content is structured to document the learning journey, provide code references, and potentially contribute to the open-source community.
 
