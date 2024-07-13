@@ -1,5 +1,5 @@
 # ML_Course_2024
----------------------------------------------------
+
 ## Overview
 
 This repository encompasses Python code implementations for machine learning projects, assignments, and exams undertaken during a machine learning course. The content is structured to document the learning journey, provide code references, and potentially contribute to the open-source community.
@@ -20,7 +20,7 @@ Dependencies
 
 The code in this repository relies on the following Python libraries:
 
-[List of required libraries, e.g., NumPy, pandas, scikit-learn, TensorFlow, PyTorch]
+[List of required libraries, e.g., NumPy, pandas, scikit-learn, TensorFlow]
 Usage
 
 To run the code, ensure you have the necessary dependencies installed. It is recommended to use a virtual environment for effective dependency management.
@@ -28,10 +28,6 @@ To run the code, ensure you have the necessary dependencies installed. It is rec
 Contributing
 
 Contributions to this repository are welcome. Please fork the repository and submit pull requests with your changes.
-
-License
-
-[Specify the license for your code, e.g., MIT License]
 
 Additional Notes
 
@@ -57,13 +53,14 @@ machine_learning_course
 │   ├── project3_svm_autoencoder
 │   │   ├── ...
 │   └── project4_reinforcement_learning
-│   │   ├── ...
+│       ├── ...
 ├── homeworks
 │   ├── ...
 ├── midterm
 │   └── ...
 └── final
     └── ...
+
 By adhering to these guidelines, you can create a well-structured and informative README that effectively communicates the contents and purpose of your repository.
 
 Would you like to add more details about specific projects, such as datasets used, algorithms implemented, or key findings?
