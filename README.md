@@ -11,7 +11,8 @@ The repository is organized into the following directories:
 projects: Contains code for independent machine learning projects.
 ### project1_linear_classification: 
 Implements logistic regression, SGD, and other linear classification models.
-### project2_decision_trees: Covers decision trees, random forests, and MLPs.
+### project2_decision_trees: 
+Covers decision trees, random forests, and MLPs.
 ### project3_svm_autoencoder: 
 Explores SVMs (including a scratch implementation) and autoencoders.
 ### project4_reinforcement_learning: 
