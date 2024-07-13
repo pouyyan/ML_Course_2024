@@ -8,21 +8,21 @@ This repository encompasses Python code implementations for machine learning pro
 
 The repository is organized into the following directories:
 
-projects: Contains code for independent machine learning projects.
-### project1_linear_classification: 
-Implements logistic regression, SGD, and other linear classification models.
-### project2_decision_trees: 
-Covers decision trees, random forests, and MLPs.
-### project3_svm_autoencoder: 
-Explores SVMs (including a scratch implementation) and autoencoders.
-### project4_reinforcement_learning: 
-Focuses on reinforcement learning algorithms and applications.
+Projects: Contains code for independent machine learning projects.
+### Mini Project 1 (Linear Classifiers): 
+  Implements logistic regression, SGD, and other linear classification models.
+### Mini Project 2 (Decision Tree): 
+  Covers decision trees, random forests, and MLPs.
+### Mini Project 3 (SVM and Autoencoder): 
+  Explores SVMs (including a scratch implementation) and autoencoders.
+### Mini Project 4 (Reinforcement Learning): 
+  Focuses on reinforcement learning algorithms and applications.
 ### Homeworks: 
-Includes assignments and solutions for homework exercises.
-### midterm: 
-Contains code related to the midterm exam.
-### Final: 
-Includes code related to the final project or exam.
+  Includes assignments and solutions for homework exercises.
+### Midterm Exam: 
+  Contains code related to the midterm exam.
+### Final Exam: 
+  Includes code related to the final exam.
 
 The code in this repository relies on the following Python libraries:
 
