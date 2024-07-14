@@ -1,4 +1,4 @@
-# ML Course 2024
+# Machine Learning Course 2024
 
 ## Overview
 
@@ -40,11 +40,3 @@ To run the code, ensure you have the necessary dependencies installed. It is rec
 ## Contributing
 
 Contributions to this repository are welcome. Please fork the repository and submit pull requests with your changes.
-
-## Additional Notes
-
-Consider adding Jupyter Notebooks or Python scripts with detailed explanations and visualizations for selected projects.
-Include performance metrics, evaluation results, and error analysis where applicable.
-Prioritize clear and concise code comments for enhanced readability.
-Maintain consistent code style and formatting.
-Utilize version control effectively to track changes.
