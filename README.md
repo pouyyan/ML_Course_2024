@@ -11,11 +11,12 @@ The repository is organized into the following directories:
 ------
 
 **Mini Projects** | Code for independent machine learning projects.
+|---|---|
 | Mini Project 1 | Implements **logistic regression, SGD, and other linear classification models**. |
 | Mini Project 2 | Covers **decision trees, random forests, and MLPs**. |
 | Mini Project 3 | Explores **SVMs (including a scratch implementation) and autoencoders**. |
 | Mini Project 4 | Focuses on **reinforcement learning algorithms and applications**. |
-
+|---|---|
 ------
 
 **Exams**
