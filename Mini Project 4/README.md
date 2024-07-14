@@ -1,8 +1,11 @@
 # Deep Q-Learning Agents for LunarLander-v2
 This repository contains Python code implementing two variants of Deep Q-Learning (DQN) agents and Double Deep Q-Learning (DDQN) agents for solving the LunarLander-v2 environment from OpenAI's Gym.
 
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/122ktFJsEMgr6dS13uLBJi71pPwEAff7y?usp=drive_link)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10YpyxZRWM0dNsG6oDS-4DXFkcZPIFC9I?usp=sharing)
+## Links
+
+||Google Drive|Google Colab|
+|---|---|---|
+| Links | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/122ktFJsEMgr6dS13uLBJi71pPwEAff7y?usp=drive_link) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10YpyxZRWM0dNsG6oDS-4DXFkcZPIFC9I?usp=sharing) |
 
 ## Requirements
 To run the code, ensure you have the following installed:
@@ -17,12 +20,12 @@ Ensure dependencies are installed as per requirements.txt.
 
 Run Jupyter Notebook or any Python environment that supports interactive sessions.
 
-Usage
-## DQN Agent
+## Usage
+### DQN Agent
 DQNAgent: Implements a basic DQN agent with experience replay.
 
 Training involves initializing the environment, training the agent, and saving models periodically.
-## DDQN Agent
+### DDQN Agent
 DDQNAgent: Extends DQNAgent with Double Deep Q-Learning capabilities.
 
 Training involves initializing the environment, training the agent, updating target networks, and saving models periodically.
@@ -45,6 +48,6 @@ OpenAI Gym
 
 Stable Baselines3
 
-License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
