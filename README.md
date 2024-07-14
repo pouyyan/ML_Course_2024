@@ -8,11 +8,7 @@ This repository encompasses Python code implementations for machine learning pro
 
 The repository is organized into the following directories:
 
-------
-
 **Mini Projects** | Code for independent machine learning projects.
-
-** (blank line) **
 
 |---|---|
 | Mini Project 1 | Implements **logistic regression, SGD, and other linear classification models**. |
@@ -20,15 +16,17 @@ The repository is organized into the following directories:
 | Mini Project 3 | Explores **SVMs (including a scratch implementation) and autoencoders**. |
 | Mini Project 4 | Focuses on **reinforcement learning algorithms and applications**. |
 
-** (blank line) **
-
 **Exams**
+
+| Exam | Description |
+|---|---|
 | Midterm Exam | Code related to the midterm exam. |
 | Final Exam | Code related to the final exam. |
 
-------
-
 **Bonus Assignments**
+
+| Category | Description |
+|---|---|
 | Homeworks | Assignments and solutions for homework exercises. |
 
 The code in this repository relies on the following Python libraries:
