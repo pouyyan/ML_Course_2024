@@ -1,6 +1,9 @@
 # Deep Q-Learning Agents for LunarLander-v2
 This repository contains Python code implementing two variants of Deep Q-Learning (DQN) agents and Double Deep Q-Learning (DDQN) agents for solving the LunarLander-v2 environment from OpenAI's Gym.
 
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/122ktFJsEMgr6dS13uLBJi71pPwEAff7y?usp=drive_link)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10YpyxZRWM0dNsG6oDS-4DXFkcZPIFC9I?usp=sharing)
+
 ## Requirements
 To run the code, ensure you have the following installed:
 
@@ -26,13 +29,14 @@ Training involves initializing the environment, training the agent, updating tar
 ## Visualization
 Training progress and rewards can be visualized using matplotlib to track agent performance over episodes.
 ## Code Organization
-dqn_agent.py: Defines the DQNAgent class for DQN training.
 
-ddqn_agent.py: Defines the DDQNAgent class for DDQN training.
+| Code Section | Description |
+|---|---|
+| dqn_agent | Defines the DQNAgent class for DQN training. |
+| ddqn_agent | Defines the DDQNAgent class for DDQN training. |
+| utils | Contains utility functions such as experience replay (ExperienceReplay). |
+| main | Jupyter Notebook demonstrating agent training and visualization. |
 
-utils.py: Contains utility functions such as experience replay (ExperienceReplay).
-
-main.ipynb: Jupyter Notebook demonstrating agent training and visualization.
 ## Running Examples
 Example usage can be found in main.ipynb, where DQN and DDQN agents are trained on the LunarLander-v2 environment.
 
