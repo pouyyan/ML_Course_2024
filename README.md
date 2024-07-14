@@ -10,6 +10,7 @@ The repository is organized into the following directories:
 
 **Mini Projects** | Code for independent machine learning projects.
 
+| Category | Description |
 |---|---|
 | Mini Project 1 | Implements **logistic regression, SGD, and other linear classification models**. |
 | Mini Project 2 | Covers **decision trees, random forests, and MLPs**. |
@@ -18,7 +19,7 @@ The repository is organized into the following directories:
 
 **Exams**
 
-| Exam | Description |
+| Category | Description |
 |---|---|
 | Midterm Exam | Code related to the midterm exam. |
 | Final Exam | Code related to the final exam. |
