@@ -84,13 +84,19 @@ Question 4: Heart disease prediction
 
 | Code Section | Description |
 |---|---|
-| dqn_agent | Defines the DQNAgent class for DQN training. |
-| ddqn_agent | Defines the DDQNAgent class for DDQN training. |
-| utils | Contains utility functions such as experience replay (ExperienceReplay). |
-| main | Jupyter Notebook demonstrating agent training and visualization. |
+| Question 1 part 1 & 2| Plotting Sigmoid, ReLU , ELU and their derivatives |
+| Question 1 part 3 | McCulloch-Pitts Neuron Class |
+| Question 2 part 1 | Import Bearing dataset, plotting datatset, Extracting M*N windows, Extract Features, Shuffle and Normalization of Data |
+| Question 2 part 2 | Design MLP, Plot Loss Curve and Accuracy, Confusion Matrix and Classification Report |
+| Question 2 part 3 | Assess the MLP with different Optimizer and Loss Function |
+| Question 2 part 4 | Apply K-Fold Cross Validation and K-Fold and Design MLP |
+| Question 3 part 1 | Import Drug Dataset, PLot Data, Split Data, Under-Sampling, Decision Tree, Changing Hyperparameters |
+| Question 3 part 2 | Random Forest for Original and Under-sampled data, Classification Report, Confusion Matrix |
+| Question 4 | Import Heart Disease Dataset, Shuffle and Split, Naive Bayes, Confusion Matrix and Classification Report|
+
 
 ## Running Examples
-Example usage can be found in main.ipynb, where DQN and DDQN agents are trained on the LunarLander-v2 environment.
+Example usage can be found in Mini_Project_2.ipynb, where DQN and DDQN agents are trained on the LunarLander-v2 environment.
 
 ## References
 
