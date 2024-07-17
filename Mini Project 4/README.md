@@ -5,7 +5,7 @@ This repository contains Python code implementing two variants of Deep Q-Learnin
 
 ||Google Drive <br />(including the <br /> LaTeX report file)|Google Colab|
 |---|---|---|
-| Links | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/122ktFJsEMgr6dS13uLBJi71pPwEAff7y?usp=drive_link) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10YpyxZRWM0dNsG6oDS-4DXFkcZPIFC9I?usp=sharing) |
+| Links | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1c0kVD682t4sIcBtKK-QdNBHHXsFnddQ6?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10YpyxZRWM0dNsG6oDS-4DXFkcZPIFC9I?usp=sharing) |
 
 ## Requirements
 To run the code, ensure you have the following installed:
