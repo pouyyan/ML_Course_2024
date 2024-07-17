@@ -6,7 +6,7 @@ This repository contains Python code that explores various concepts in Machine L
 
 ||Google Drive <br />(including the <br /> LaTeX report file)|Google Colab|
 |---|---|---|
-| Links | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cYwwpAv1NShLDwPZEoYb7G_1IoEuYET2/view?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hkSkW3U7vCPZx4v2mO12hnxHcw5jqW2e?usp=sharing) |
+| Links | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1mfLYpc_4aFhffiWJLGMFvEpsZVjRL4nY?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hkSkW3U7vCPZx4v2mO12hnxHcw5jqW2e?usp=sharing) |
 
 ## Requirements
 To run the code, ensure you have the following installed:
