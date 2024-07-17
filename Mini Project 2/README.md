@@ -1,11 +1,10 @@
-# Mini-Project 2: Exploring Machine Learning Concepts
+# Exploring Machine Learning Concepts
 
-This repository contains Python code that explores various concepts in Machine Learning, including:
+This repository contains Python code that explores various concepts in Machine Learning, including Activation Functions, McCulloch-Pitts Neurons, Bearing Fault Detection, 
 
 Activation Functions: Implements sigmoid and ReLU activation functions, calculates their derivatives, and plots them.
 McCulloch-Pitts Neurons: Defines a McCulloch-Pitts neuron class and uses it to create a simple neural network for linear classification.
-Bearing Fault Detection:
-Imports and preprocesses vibration data from bearings with different fault conditions.
+Bearing Fault Detection: Imports and preprocesses vibration data from bearings with different fault conditions.
 Performs feature extraction by calculating statistical features from time-series data.
 Implements 3-layer neural networks with different optimizers and loss functions for bearing fault classification.
 Evaluates model performance using classification reports and confusion matrices.
