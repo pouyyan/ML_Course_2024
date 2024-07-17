@@ -39,7 +39,7 @@ Training progress and rewards can be visualized using matplotlib to track agent 
 | ExperienceReplay | Contains function of experience replay (ExperienceReplay). |
 
 ## Running Examples
-Example usage can be found in main.ipynb, where DQN and DDQN agents are trained on the LunarLander-v2 environment.
+Example usage can be found in Mini_Project_4.ipynb, where DQN and DDQN agents are trained on the LunarLander-v2 environment.
 
 ## References
 OpenAI Gym
