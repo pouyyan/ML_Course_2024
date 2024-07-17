@@ -34,6 +34,8 @@ Libraries: Python, pandas, scikit-learn, matplotlib, seaborn.
 ### Part 5: Custom Polynomial SVM Implementation from Scratch
 Objective: Implement a custom Polynomial SVM using numpy, including polynomial kernel computation, model training with SMO optimization, and visualization of decision boundaries.
 Libraries: Python, numpy, matplotlib, scikit-learn.
+### Part 6: SMOTE method and Autoencoder
+The code defines and trains a two-part model for noise reduction and classification
 ### Results and Visualizations
 Each part provides visualizations and evaluation metrics such as accuracy, F1-score, and confusion matrices.
 Animated GIFs (SVM_Decision_Boundary.gif, SVM_Scratch_decision_boundaries.gif) demonstrate dynamic changes in decision boundaries across different models and polynomial degrees.
@@ -44,13 +46,14 @@ This project showcases the application of SVMs with various kernels and LDA for 
 
 | Code Section | Description |
 |---|---|
-| dqn_agent | Defines the DQNAgent class for DQN training. |
-| ddqn_agent | Defines the DDQNAgent class for DDQN training. |
-| utils | Contains utility functions such as experience replay (ExperienceReplay). |
-| main | Jupyter Notebook demonstrating agent training and visualization. |
+| Question 1 part 1 | Import Iris Dataset, Plot pairplot, Compute Correlation, TSNE,  |
+| Question 1 part 2 | Split Data, Standardization, LDA, Linear SVM |
+| Question 1 part 3 | SVM with Polynomial Kernel from degrees 1 to 10, Making GIF from the changes of Decision Boundaries,  |
+| Question 1 part 4 | CLass SVM from Scratch |
+| Question 2 | Import Credit Card Fraud Dataset, Over-smapling (SMOTE method), Autoencoder, Plot Loss Curve for Classifier, Confusion Matrix|
 
 ## Running Examples
-Example usage can be found in main.ipynb, where DQN and DDQN agents are trained on the LunarLander-v2 environment.
+Example usage can be found in Mini_project_3.ipynb.
 
 ## References
 OpenAI Gym
