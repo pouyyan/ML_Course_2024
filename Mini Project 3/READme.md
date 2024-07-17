@@ -4,7 +4,7 @@ This repository contains Python code focused on classification and visualization
 ## Links
 ||Google Drive <br />(including the <br /> LaTeX report file)|Google Colab|
 |---|---|---|
-| Links | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/122ktFJsEMgr6dS13uLBJi71pPwEAff7y?usp=drive_link) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10YpyxZRWM0dNsG6oDS-4DXFkcZPIFC9I?usp=sharing) |
+| Links | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1iSWpBIzpoc3nQW1oToOOuWCDi3Fsg8St?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ZD9At_gSvAstTZUak0bmzScS1Zdqeqwk/view?usp=sharing) |
 
 ## Requirements
 To run the code, ensure you have the following installed:
