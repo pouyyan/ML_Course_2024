@@ -36,8 +36,7 @@ Training progress and rewards can be visualized using matplotlib to track agent 
 |---|---|
 | dqn_agent | Defines the DQNAgent class for DQN training. |
 | ddqn_agent | Defines the DDQNAgent class for DDQN training. |
-| utils | Contains utility functions such as experience replay (ExperienceReplay). |
-| main | Jupyter Notebook demonstrating agent training and visualization. |
+| ExperienceReplay | Contains function of experience replay (ExperienceReplay). |
 
 ## Running Examples
 Example usage can be found in main.ipynb, where DQN and DDQN agents are trained on the LunarLander-v2 environment.
