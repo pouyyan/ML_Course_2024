@@ -96,7 +96,7 @@ Question 4: Heart disease prediction
 
 
 ## Running Examples
-Example usage can be found in Mini_Project_2.ipynb, where DQN and DDQN agents are trained on the LunarLander-v2 environment.
+Example usage can be found in Mini_Project_2.ipynb.
 
 ## References
 
