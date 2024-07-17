@@ -16,11 +16,9 @@ Jupyter Notebook (for running interactively)
 
 ## Setup
 
-Ensure dependencies are installed as per requirements.txt.
-
 Run Jupyter Notebook or any Python environment that supports interactive sessions.
 
-## Usage
+## Overview
 ### DQN Agent
 DQNAgent: Implements a basic DQN agent with experience replay.
 
@@ -31,6 +29,7 @@ DDQNAgent: Extends DQNAgent with Double Deep Q-Learning capabilities.
 Training involves initializing the environment, training the agent, updating target networks, and saving models periodically.
 ## Visualization
 Training progress and rewards can be visualized using matplotlib to track agent performance over episodes.
+
 ## Code Organization
 
 | Code Section | Description |
