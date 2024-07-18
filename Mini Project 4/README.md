@@ -10,9 +10,10 @@ This repository contains Python code implementing two variants of Deep Q-Learnin
 ## Requirements
 To run the code, ensure you have the following installed:
 
-Python 3.x
+- Python 3.x
+- Required Python libraries: `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `io`, `glob`, `torch`, `stable_baselines3`, `gym`, `opendatasets`, `IPython`,`random`, `collections`
+- Jupyter Notebook (for running interactively)
 
-Jupyter Notebook (for running interactively)
 
 ## Setup
 
