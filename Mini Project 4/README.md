@@ -42,9 +42,9 @@ Training progress and rewards can be visualized using matplotlib to track agent 
 Example usage can be found in Mini_Project_4.ipynb, where DQN and DDQN agents are trained on the LunarLander-v2 environment.
 
 ## References
-OpenAI Gym
+- [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/)
+- [OpenAI Gym](https://www.gymlibrary.dev/index.html)
 
-Stable Baselines3
 
 ## License
 
