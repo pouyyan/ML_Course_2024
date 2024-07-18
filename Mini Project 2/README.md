@@ -11,10 +11,10 @@ This repository contains Python code that explores various concepts in Machine L
 ## Requirements
 To run the code, ensure you have the following installed:
 
-Python 3.x
-
+- Python 3.x
+- Jupyter Notebook (for running interactively)
+- Required Python libraries: `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `imageio`, `cvxopt`, `imblearn`, `tensorflow`, `opendatasets`, `gdown`
 Jupyter Notebook (for running interactively)
-
 ## Setup
 
 Run Jupyter Notebook or any Python environment that supports interactive sessions.
@@ -99,9 +99,9 @@ Question 4: Heart disease prediction
 Example usage can be found in Mini_Project_2.ipynb.
 
 ## References
-
-Opendatasets
-
+- [Scikit-learn](https://scikit-learn.org/)
+- [TensorFlow](https://www.tensorflow.org/)
+- 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
