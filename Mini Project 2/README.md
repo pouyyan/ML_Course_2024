@@ -8,12 +8,13 @@ This repository contains Python code that explores various concepts in Machine L
 |---|---|---|
 | Links | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1mfLYpc_4aFhffiWJLGMFvEpsZVjRL4nY?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hkSkW3U7vCPZx4v2mO12hnxHcw5jqW2e?usp=sharing) |
 
+
 ## Requirements
 To run the code, ensure you have the following installed:
 
 - Python 3.x
 - Jupyter Notebook (for running interactively)
-- Required Python libraries: `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `imageio`, `cvxopt`, `imblearn`, `tensorflow`, `opendatasets`, `gdown`
+- Required Python libraries: `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `imblearn`, `tensorflow`, `opendatasets`, `gdown`, `random`
 - Jupyter Notebook (for running interactively)
 
 ## Setup
@@ -102,6 +103,10 @@ Example usage can be found in Mini_Project_2.ipynb.
 ## References
 - [Scikit-learn](https://scikit-learn.org/)
 - [TensorFlow](https://www.tensorflow.org/)
+- [CWRU Bearing Fault Dataset](https://engineering.case.edu/bearingdatacenter/download-data-file)
+- [Kaggle Heart Disease Dataset]((https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset))
+- [Kaggle Drugs A, B, C, X, Y for Decision Trees](https://www.kaggle.com/datasets/pablomgomez21/drugs-a-b-c-x-y-for-decision-trees)
+- 
   
 ## License
 
