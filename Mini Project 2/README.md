@@ -104,9 +104,8 @@ Example usage can be found in Mini_Project_2.ipynb.
 - [Scikit-learn](https://scikit-learn.org/)
 - [TensorFlow](https://www.tensorflow.org/)
 - [CWRU Bearing Fault Dataset](https://engineering.case.edu/bearingdatacenter/download-data-file)
-- [Kaggle Heart Disease Dataset]((https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset))
+- [Kaggle Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 - [Kaggle Drugs A, B, C, X, Y for Decision Trees](https://www.kaggle.com/datasets/pablomgomez21/drugs-a-b-c-x-y-for-decision-trees)
-- 
   
 ## License
 
