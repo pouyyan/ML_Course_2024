@@ -15,7 +15,7 @@ To run the code, ensure you have the following installed:
 - Python 3.x
 - Jupyter Notebook (for running interactively)
 - Required Python libraries: `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `imageio`, `cvxopt`, `imblearn`, `tensorflow`, `opendatasets`, `gdown`
-Jupyter Notebook (for running interactively)
+- Jupyter Notebook (for running interactively)
 
 ## Setup
 
