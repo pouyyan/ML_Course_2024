@@ -8,17 +8,14 @@ This repository demonstrates the use of classification models and hyperparameter
 |---|---|---|
 | Links | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/186AbdIeFw0kJYwt5gFSpX7yTnF4EynGj?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1al77_chJL7QaaN7ua8sv6XHlA3DeEKfW/view?usp=sharing) |
 
-
-This notebook provides a comprehensive guide to classification models and hyperparameter tuning, offering both theoretical understanding and practical application.
-
-
 ## Requirements
 To run the code, ensure you have the following installed:
 
-Python 3.x
-
-Jupyter Notebook (for running interactively)
-
+- Python 3.x
+- Jupyter Notebook (for running interactively)
+- Required Python libraries: `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `imageio`, `cvxopt`, `imblearn`, `tensorflow`, `opendatasets`, `gdown`
+- Jupyter Notebook (for running interactively)
+  
 ## Setup
 
 Run Jupyter Notebook or any Python environment that supports interactive sessions.
@@ -91,8 +88,8 @@ Question 3: LS, RLS and WLS on Weather dataset
 Example usage can be found in Mini_Project_1.ipynb.
 
 ## References
-
-Opendatasets
+- [Scikit-learn](https://scikit-learn.org/)
+- [TensorFlow](https://www.tensorflow.org/)
 
 ## License
 
