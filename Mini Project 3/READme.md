@@ -1,5 +1,8 @@
 # Classification and Visualization with SVM and LDA
-This repository contains Python code focused on classification and visualization using Support Vector Machines (SVM) with different kernels and Linear Discriminant Analysis (LDA). The project primarily works with the Iris dataset to classify iris flowers into different species.
+This repository contains Python code focused on classification and visualization using Support Vector Machines (SVM) with different kernels and Linear Discriminant Analysis (LDA). The project primarily works on two main parts:
+
+1. Classification of the Iris dataset using various techniques including t-SNE, LDA, SVM, and custom SVM implementation (classifing iris flowers into different species.)
+2. Fraud detection on a credit card transaction dataset using an autoencoder for denoising and a neural network classifier.
 
 ## Links
 ||Google Drive <br />(including the <br /> LaTeX report file)|Google Colab|
@@ -9,8 +12,9 @@ This repository contains Python code focused on classification and visualization
 ## Requirements
 To run the code, ensure you have the following installed:
 
-Python 3.x
-
+- Python 3.x
+- Jupyter Notebook (for running interactively)
+- Required Python libraries: `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `imageio`, `cvxopt`, `imblearn`, `tensorflow`, `opendatasets`, `gdown`
 Jupyter Notebook (for running interactively)
 
 ## Setup
@@ -49,16 +53,16 @@ This project showcases the application of SVMs with various kernels and LDA for 
 | Question 1 part 1 | Import Iris Dataset, Plot pairplot, Compute Correlation, TSNE,  |
 | Question 1 part 2 | Split Data, Standardization, LDA, Linear SVM |
 | Question 1 part 3 | SVM with Polynomial Kernel from degrees 1 to 10, Making GIF from the changes of Decision Boundaries,  |
-| Question 1 part 4 | CLass SVM from Scratch |
+| Question 1 part 4 | Class SVM from Scratch |
 | Question 2 | Import Credit Card Fraud Dataset, Over-smapling (SMOTE method), Autoencoder, Plot Loss Curve for Classifier, Confusion Matrix|
 
 ## Running Examples
-Example usage can be found in Mini_project_3.ipynb.
+Example usage can be found in the provided Jupyter Notebooks, where the Iris dataset is explored and classified, and the fraud detection pipeline is executed.
 
 ## References
-OpenAI Gym
-
-Stable Baselines3
+- [Scikit-learn](https://scikit-learn.org/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 ## License
 
