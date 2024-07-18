@@ -101,7 +101,7 @@ Example usage can be found in Mini_Project_2.ipynb.
 ## References
 - [Scikit-learn](https://scikit-learn.org/)
 - [TensorFlow](https://www.tensorflow.org/)
-- 
+  
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
