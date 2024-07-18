@@ -13,7 +13,7 @@ To run the code, ensure you have the following installed:
 
 - Python 3.x
 - Jupyter Notebook (for running interactively)
-- Required Python libraries: `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `imageio`, `cvxopt`, `imblearn`, `tensorflow`, `opendatasets`, `gdown`
+- Required Python libraries: `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `opendatasets`, `gdown`
 - Jupyter Notebook (for running interactively)
   
 ## Setup
@@ -89,7 +89,9 @@ Example usage can be found in Mini_Project_1.ipynb.
 
 ## References
 - [Scikit-learn](https://scikit-learn.org/)
-- [TensorFlow](https://www.tensorflow.org/)
+- [Kaggle Weather in Szeged 2006-2016 Dataset](https://www.kaggle.com/datasets/budincsevity/szeged-weather/data)
+- [CWRU Bearing Dataset](https://engineering.case.edu/bearingdatacenter/download-data-file)
+
 
 ## License
 
